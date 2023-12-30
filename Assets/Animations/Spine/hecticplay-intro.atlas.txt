@@ -1,0 +1,27 @@
+
+hecticplay-intro.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+hectic-piece
+  rotate: true
+  xy: 2, 2
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+hectic-play-logo
+  rotate: false
+  xy: 2, 36
+  size: 472, 472
+  orig: 472, 472
+  offset: 0, 0
+  index: -1
+hectic-play-logo-glow
+  rotate: false
+  xy: 476, 245
+  size: 263, 263
+  orig: 263, 263
+  offset: 0, 0
+  index: -1

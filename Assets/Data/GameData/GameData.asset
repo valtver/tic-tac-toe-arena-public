@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e6f231172a39a7043967e0fbb995043d, type: 3}
+  m_Name: GameData
+  m_EditorClassIdentifier: 
+  Level: {fileID: 11400000, guid: 7437823d9354319409f7dce39aa07178, type: 2}
+  GridSize: {fileID: 11400000, guid: 5328cc1ccf63dd14eafef0862a82c1ae, type: 2}
+  PlayerVersus: {fileID: 11400000, guid: a1b6732de2c73884b88a5cbe202683d3, type: 2}
+  Symbol: {fileID: 11400000, guid: ead56d901f2956c4aa99bda089fe905b, type: 2}
+  Loader: {fileID: 11400000, guid: 615547e3e86fc744e8c5743fc6aec582, type: 2}
+  Player1: {fileID: 11400000, guid: e3bb0f59ab8d78448b87b22c39fcf1a1, type: 2}
+  Player2: {fileID: 11400000, guid: 1d59c59ef3543a14e8094d2cb9560add, type: 2}
+  ActivePlayer: {fileID: 11400000, guid: e3bb0f59ab8d78448b87b22c39fcf1a1, type: 2}

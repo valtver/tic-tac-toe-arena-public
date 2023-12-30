@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a6b194f808b1af6499c93410e504af42, type: 3}
+  m_Name: ui-circle_Atlas
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: ffcbeabacb417e941907981a20f10d93, type: 3}
+  materials:
+  - {fileID: 2100000, guid: edd71540b2b9ac14584eaa118c8a9300, type: 2}
+  - {fileID: 2100000, guid: c44707345fbcfc345b131723984ea165, type: 2}
+  - {fileID: 2100000, guid: ebe319269c050e5479ced25e73ea4ffc, type: 2}
+  - {fileID: 2100000, guid: 3adcbb759517ddd4aa83b1bdb386f6f1, type: 2}
+  - {fileID: 2100000, guid: aece2e89e9798ca4a9402d5329cdc95e, type: 2}

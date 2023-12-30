@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1e119474ca5d8924a8740a369f419b5f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - AnimationComponent: {instanceID: 0}
+  - AudioComponent: {instanceID: 0}
+  - eventUiButtonClick: {fileID: 11400000, guid: 4813abc5bac9b884698fd35cea0e8de9,
+      type: 2}
+  - RaycastComponent: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

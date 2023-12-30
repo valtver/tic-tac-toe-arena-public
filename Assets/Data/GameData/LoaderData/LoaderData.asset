@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 09b17057e43d5aa48adc36ccad84d2bd, type: 3}
+  m_Name: LoaderData
+  m_EditorClassIdentifier: 
+  sceneName: {fileID: 11400000, guid: 7437823d9354319409f7dce39aa07178, type: 2}
+  sceneFormat: .unity
+  sceneDir: Assets/Scenes/
+  preloadName: {fileID: 11400000, guid: 5328cc1ccf63dd14eafef0862a82c1ae, type: 2}
+  preloadDir: Game/
